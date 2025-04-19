@@ -31,16 +31,7 @@ This solution leverages **Natural Language Processing (NLP)** and **Machine Lear
 - Assisting junior doctors in clinical documentation  
 - Auditable summaries for medical-legal purposes  
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-org/smartdischarge.git
-cd smartdischarge
-pip install -r requirements.txt
-
-#👩‍⚕️ Who’s This For?
+## 👩‍⚕️ Who’s This For?
 Hospitals & Clinics 🏥
 
 Healthcare Startups 🚀
