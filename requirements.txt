@@ -1,0 +1,6 @@
+flask==2.3.3 
+pandas==2.0.3 
+numpy==1.25.2 
+fpdf==1.7.2 
+transformers==4.36.2 
+gunicorn==22.0.0
