@@ -42,4 +42,4 @@ HealthTech Innovators 💡
 
 
 
-🔗 Let’s connect: www.linkedin.in/shivakumarsouta | shivakumarsouta-portfolio.vercel.app
+🔗 Let’s connect: www.linkedin.in/shivakumarsouta | https://www.shivakumarsouta-portfolio.vercel.app
